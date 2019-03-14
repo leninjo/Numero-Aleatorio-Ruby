@@ -1,2 +1,0 @@
-# project
-Código del proyecto. 
